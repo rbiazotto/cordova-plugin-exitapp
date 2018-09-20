@@ -20,7 +20,7 @@
     "terminate",
     "ecosystem:cordova",
     "cordova-wp8",
-    "cordova-android"
+    "cordova-android",
     "cordova-ios"
   ],
   "author": "Rakesh Walisheter",
